@@ -1,0 +1,25 @@
+export const Theme = {
+  light: {
+    primary: 'light',
+    theme: 'light',
+    color: 'black',
+    background: 'white',
+    text: 'black',
+    inactive: 'grey',
+    active: '#f0edf6',
+    button: '#6200EE',
+    textInput: 'white',
+  },
+  dark: {
+    primary: 'dark',
+    theme: 'dark',
+    color: 'white',
+    background: 'black',
+    text: 'white',
+    inactive: 'grey',
+    active: '#00B0FF',
+    // active: '#f0edf6',
+    button: '#00B0FF',
+    textInput: 'grey',
+  },
+};

@@ -1,0 +1,50 @@
+{
+  "common": {
+    "ok": "OK 🇯🇵",
+    "cancel": "Cancel 🇯🇵",
+    "back": "Back 🇯🇵"
+  },
+  "settingScreen":{
+    "theme":"Theme 🇯🇵"
+    ,
+    "chooseLanguage":"ChooseLanguage 🇯🇵"
+    ,"english":"English 🇯🇵",
+    "japan":"Japan 🇯🇵"
+  },
+  "profile":{
+    "firstName":"First Name 🇯🇵",
+    "lastName":"Last Name 🇯🇵",
+    "gender":"Gender 🇯🇵",
+    "age":"Age 🇯🇵"
+  },
+  "home":{
+
+    "newsHighlight":"News Highight 🇯🇵"
+    
+
+  },
+    "loginScreen": {
+    "email": "Email 🇯🇵",
+    "emailPlaceholder": "Enter Email Address 🇯🇵",
+    "emailError": "Please enter valid email",
+    "password": "Password 🇯🇵",
+    "passwordPlaceholder": "Enter your password",
+    "passwordError": "Please enter strong password",
+    "login": "Login 🇯🇵",
+    "register": "Register  🇯🇵" 
+  },
+  "registerScreen": {
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter Full name",
+    "fullNameError": "Please Enter FirstName and LastName",
+    "firstName":"First Name 🇯🇵",
+    "lastName":"Last Name 🇯🇵",
+    "gender":"Gender 🇯🇵",
+    "age":"Age 🇯🇵",
+    "login": "Login 🇯🇵",
+    "register": "Register 🇯🇵",
+    "email": "Email 🇯🇵",
+    "password": "Password 🇯🇵"
+    ,"chooseGender":"Choose Gender 🇯🇵"
+  }
+}

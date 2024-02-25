@@ -1,0 +1,64 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email address.",
+    "somethingWentWrong": "Something went wrong. Please try again."
+  },
+  "loginScreen": {
+    "email": "Email",
+    "emailPlaceholder": "Enter Email Address",
+    "emailError": "Please enter valid email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "passwordError": "Please enter strong password",
+    "login": "Login",
+    "register": "Register"
+  },
+  "settingScreen":{
+    "theme":"Theme"
+    ,
+    "chooseLanguage":"ChooseLanguage"
+    ,"english":"English",
+    "japan":"Japan"
+  },
+  "profile":{
+    "firstName":"First Name",
+    "lastName":"Last Name",
+    "gender":"Gender",
+    "age":"Age"
+  },
+  "home":{
+
+    "newsHighlight":"News Highight"
+
+  },
+  "registerScreen": {
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter Full name",
+    "fullNameError": "Please Enter FirstName and LastName",
+    "firstName":"First Name",
+    "lastName":"Last Name",
+    "gender":"Gender",
+    "age":"Age",
+    "email": "Email",
+    "password": "Password"
+    ,"chooseGender":"Choose Gender "
+  },
+  "storybook": {
+    "placeholder": "Placeholder",
+    "field": "Field"
+  },
+  "alert": {
+    "title": "Alert!",
+    "description": "Alert! Description"
+  },
+  "errorScreen": {
+    "title": "Error!",
+    "description": "Something went wrong",
+    "button": "Reload"
+  }
+}
